@@ -1,1 +1,1 @@
-# Allied-MasterCojputer
+# Allied-MasterComputer
