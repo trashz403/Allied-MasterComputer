@@ -32,6 +32,8 @@ git clone https://github.com/yourusername/Allied-MasterComputer.git
 cd Allied-MasterComputer
 python3 setup.py install
 ```
+After the installation if finished, run:
+
 ```bash
 python3 AM.py
 ```
