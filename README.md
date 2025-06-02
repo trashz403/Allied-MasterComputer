@@ -78,12 +78,8 @@ python3 AM.py
 
 ## 🔒 Caution
 
-If you are hosting this publicly on GitHub:
-
-- Be sure to include this disclaimer.
-- Avoid associating it with real people, organizations, or ideologies.
-- Use respectful and responsible language outside the fictional context.
-- If unsure, consider keeping the repository **private**.
+This project is strictly intended for educational and entertainment
+purposes only, with no intent to cause harm
 
 ---
 
