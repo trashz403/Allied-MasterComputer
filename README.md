@@ -23,6 +23,25 @@ No external APIs or cloud models are used—everything is processed on your own 
 
 ---
 
+## 🛠️ Pre-Installation
+
+Make sure you have Python 3 installed.  
+Before installing the project, you **must create and activate** a Python virtual environment named `AM` to isolate dependencies and avoid conflicts.
+
+### Create and activate the virtual environment
+
+**On Linux/macOS:**
+
+```bash
+python3 -m venv AM
+source AM/bin/activate
+```
+**On Windows:**
+```
+python -m venv AM
+.\AM\Scripts\Activate.ps1
+```
+
 ## 🛠️ Installation
 
 Make sure you have Python 3 installed, then run:
