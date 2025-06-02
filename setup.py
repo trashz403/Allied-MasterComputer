@@ -6,3 +6,4 @@ def installation_processes():
 
 
 installation_processes()
+print("Installation is finished...!")
