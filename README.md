@@ -32,6 +32,9 @@ git clone https://github.com/yourusername/Allied-MasterComputer.git
 cd Allied-MasterComputer
 python3 setup.py install
 ```
+```bash
+python3 AM.py
+```
 
 ---
 
