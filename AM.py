@@ -33,7 +33,7 @@ llm = Llama(
 print(Fore.GREEN + "[+] Model loaded successfully. Begin chatting with AM.\n")
 
 # Your startup credit:
-print(Fore.CYAN + "[*] This was created by @trashz403\n")
+print(Fore.CYAN + "[*] Developed by @trashz403\n")
 
 # Main loop
 while True:
