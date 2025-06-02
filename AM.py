@@ -32,12 +32,16 @@ llm = Llama(
 )
 print(Fore.GREEN + "[+] Model loaded successfully. Begin chatting with AM.\n")
 
+# Your startup credit:
+print(Fore.CYAN + "[*] This was created by @trashz403\n")
+
 # Main loop
 while True:
     user_input = input(Fore.WHITE + "\nYou: ")
 
     if user_input.lower() in ["exit", "quit"]:
         print(Fore.GREEN + "\n[*] Exiting the chat. Goodbye.\n")
+        print(Fore.CYAN + "[*] Developed by @trashz403\n")  # exit credit
         break
 
     # Adding user input to history
