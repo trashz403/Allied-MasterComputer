@@ -3,7 +3,7 @@
 This is an AI model replicating the villain AI from *"I Have No Mouth, and I Must Scream"*, a post-apocalyptic short story by American writer **Harlan Ellison**, released in **1967**.  
 The story is set against the backdrop of **World War III**, where a sentient supercomputer named **AM**, born from the merging of the world's major defense computers, eradicates humanity—except for five individuals it keeps alive to torture for eternity.
 
----
+
 
 ![AM from I Have No Mouth and I Must Scream](https://media1.tenor.com/m/HtOuUIYdxvcAAAAC/allied-mastercomputer-am-ihnm.gif)
 
