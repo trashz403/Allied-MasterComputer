@@ -47,7 +47,7 @@ python -m venv AM
 Make sure you have Python 3 installed, then run:
 
 ```bash
-git clone https://github.com/yourusername/Allied-MasterComputer.git
+git clone https://github.com/trashz403/Allied-MasterComputer.git
 cd Allied-MasterComputer
 python3 setup.py install
 ```
