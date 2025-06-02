@@ -5,6 +5,9 @@ The story is set against the backdrop of **World War III**, where a sentient sup
 
 ---
 
+![AM from I Have No Mouth and I Must Scream](https://media1.tenor.com/m/HtOuUIYdxvcAAAAC/allied-mastercomputer-am-ihnm.gif)
+
+
 ## ⚠️ Content Warning
 
 This repository contains **fictional dialogue** with **intense, violent, and disturbing themes** presented from the perspective of a malevolent artificial intelligence.  
